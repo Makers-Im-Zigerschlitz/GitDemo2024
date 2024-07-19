@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Dies ist mein Beitrag zum heutigen Kurs. Mehr habe ich nicht zu sagen!
+=======
+Dies ist mein Beitrag zum heutigen Kurs.
+
+Ich will auh öppis sägä
+>>>>>>> 98fa8dbcebd1122e4942a6389e86b329dcc8c767
