@@ -1,5 +1,12 @@
+<<<<<<< HEAD
+Dies ist mein Beitrag zum heutigen Kurs. Mehr habe ich nicht zu sagen!
+=======
 Dies ist mein Beitrag zum heutigen Kurs.
 
 Ich will auh öppis sägä
+<<<<<<< HEAD
 
 Trollolololo
+=======
+>>>>>>> 98fa8dbcebd1122e4942a6389e86b329dcc8c767
+>>>>>>> d31aa9bb5f7628954d85c99776a633e8daef1aac
